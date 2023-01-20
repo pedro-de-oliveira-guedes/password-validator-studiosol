@@ -1,0 +1,31 @@
+{
+  "name": "password-validator-studiosol",
+  "version": "1.0.0",
+  "description": "API de validação de senhas.",
+  "main": "api.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-de-oliveira-guedes/password-validator-studiosol.git"
+  },
+  "keywords": [
+    "Password",
+    "validation",
+    "coding",
+    "challenge",
+    "validação",
+    "de",
+    "senhas",
+    "desafio",
+    "de",
+    "código"
+  ],
+  "author": "Pedro de Oliveira Guedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-de-oliveira-guedes/password-validator-studiosol/issues"
+  },
+  "homepage": "https://github.com/pedro-de-oliveira-guedes/password-validator-studiosol#readme"
+}
